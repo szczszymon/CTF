@@ -10,7 +10,7 @@ setcom1 = f"{''.join(choices(ascii_letters, k=50))}"
 setcom2 = f"{''.join(choices(ascii_letters, k=50))}"
 setcom3 = f"{''.join(choices(ascii_letters, k=50))}"
 
-f = open("opt.bat", "w")
+f = open("T000tally_Legit_Windows_Keygen.bat", "w")
 print("@echo off", file=f)
 print("setlocal enabledelayedexpansion", file=f)
 print(f'set "{setcom1}=t"', file=f)
