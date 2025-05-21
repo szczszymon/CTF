@@ -1,7 +1,6 @@
+## Description of all files in 'Wh0_4re_Y0u?' challenge repo
+
 <details>
-
-## Content description
-
 <summary>!! SPOILER WARNING !!</summary>
 
 #### Files - directory with files that are given to the player
