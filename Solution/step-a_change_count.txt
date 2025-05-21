@@ -1,0 +1,109 @@
+%PDF-1.5
+%����
+1 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 24 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/Group 6 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources 7 0 R
+/Type /Page
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Filter /FlateDecode
+/Length 413
+>>
+stream
+x���Mo1���+|L��|ru[��t$-��j�+
+�_O&�aV�X�*R�:N�F�&����;i���W�űu@��9��S�#G�"��ng��/�Jp�c���A��c��U��.�G���ݫlǒ�&��x�Xh٠K�Z>r�Zg�zs��z���1�e�P���ƃ��\��o
+�`C�0�R 6��[��/�GC�6�C8N������w�g�[Ѳ��Noo΍�AsT?5�o4���$�A�2c~G�!l�+�Y��-	��<��<�u;{��!I0�m8�=8��\�M�i�����j8��q��)�_$q�1�Rr�&�w�C��c�������˖����&�^GQ��ͺ�mq=�U,��ţ�Pa�+�Yֿb=�J���� ���_�����
+endstream
+endobj
+6 0 obj
+<<
+/CS /DeviceRGB
+/I true
+/S /Transparency
+/Type /Group
+>>
+endobj
+7 0 obj
+<<
+/Font <<
+/F39 8 0 R
+/F45 14 0 R
+>>
+/ProcSet [ /PDF /Text /ImageC ]
+/XObject <<
+/Im1 18 0 R
+/Im2 20 0 R
+/Im3 21 0 R
+/Im4 23 0 R
+>>
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /GLJAQQ+LMRoman10-Regular
+/Encoding 9 0 R
+/FirstChar 29
+/FontDescriptor 10 0 R
+/LastChar 119
+/Subtype /Type1
+/ToUnicode 12 0 R
+/Type /Font
+/Widths 13 0 R
+>>
+endobj
+9 0 obj
+<<
+/Differences [ 29 /fl 46 /period 49 /one /two /three /four 58 /colon 65 /A 68 /D /E 77 /M 80 /P 83 /S 87 /W 97 /a /b /c /d /e 105 /i 107 /k /l /m /n /o /p 114 /r 116 /t /u /v /w 121 /y /z ]
+/Type /Encoding
+>>
+endobj
+10 0 obj
+<<
+/Ascent 689
+/CapHeight 689
+/Descent -194
+/Flags 4
+/FontBBox [ -430 -290 1417 1127 ]
+/FontFile 11 0 R
+/FontName /GLJAQQ+LMRoman10-Regular
+/ItalicAngle 0
+/StemV 69
+/Type /FontDescriptor
+/XHeight 431
+>>
+endobj
+11 0 obj
+<<
+/Filter /FlateDecode
+/Length1 2041
+/Length2 24755
+/Length3 0
+/Length 26011
+>>
+stream
+x���eP\ۺ5��{І����ݡqwww���-�Kpw��	|d�{�����W]ݫǣc=s̹����XA�N���(fg�L�D��
+��U��1�eb�S��X:��Y��Ȅ���v�"��@n

@@ -1,10 +1,13 @@
 test = '''
+# I keep getting numbers..
+# Guess that some thingz are just not right, it is what it is..
+
 import secrets
 import base64
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
-msg = '583C/pJjITIcA+ph4+0izIVMiaUIpTdweF1sjdMeobVSe9AvdhuORqqAgrr3E4HC'
+msg = "583C/pJjITIcA+ph4+0izIVMiaUIpTdweF1sjdMeobVSe9AvdhuORqqAgrr3E4HC"
 iv = secrets.token_bytes(16)
 seed = secrets.randbits(256)
 

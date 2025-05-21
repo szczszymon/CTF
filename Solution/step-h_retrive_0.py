@@ -1,3 +1,4 @@
+﻿
 # I keep getting numbers..
 # Guess that some thingz are just not right, it is what it is..
 
@@ -23,3 +24,4 @@ except ValueError:
     decrypted = secrets.randbits(256).to_bytes(32, byteorder="big")
     with open("output.txt", "w") as file:
         file.write(f"Your flag is: flag{{{int.from_bytes(decrypted)}}}")
+
