@@ -1,7 +1,7 @@
 import secrets
 import base64
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import pad, unpad
+from Cryptodome.Cipher import AES
+from Cryptodome.Util.Padding import pad, unpad
 
 # Data to be encrypted
 flag = "flag{JU5T_4_STUD3NT}"

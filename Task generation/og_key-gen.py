@@ -1,7 +1,7 @@
 import secrets
 import base64
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import unpad
+from Cryptodome.Cipher import AES
+from Cryptodome.Util.Padding import unpad
 
 msg = "583C/pJjITIcA+ph4+0izIVMiaUIpTdweF1sjdMeobVSe9AvdhuORqqAgrr3E4HC"
 
